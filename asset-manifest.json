@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bevera/static/css/main.e6c13ad2.css",
+    "main.js": "/bevera/static/js/main.bcb66a01.js",
+    "static/js/453.8b216112.chunk.js": "/bevera/static/js/453.8b216112.chunk.js",
+    "index.html": "/bevera/index.html",
+    "main.e6c13ad2.css.map": "/bevera/static/css/main.e6c13ad2.css.map",
+    "main.bcb66a01.js.map": "/bevera/static/js/main.bcb66a01.js.map",
+    "453.8b216112.chunk.js.map": "/bevera/static/js/453.8b216112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bcb66a01.js"
+  ]
+}
