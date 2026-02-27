@@ -8,8 +8,5 @@
     "main.bcb66a01.js.map": "/bevera/static/js/main.bcb66a01.js.map",
     "453.8b216112.chunk.js.map": "/bevera/static/js/453.8b216112.chunk.js.map"
   },
-  "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.bcb66a01.js"
-  ]
+  "entrypoints": ["static/css/main.e6c13ad2.css", "static/js/main.bcb66a01.js"]
 }
